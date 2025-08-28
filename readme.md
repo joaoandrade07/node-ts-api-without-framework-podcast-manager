@@ -105,7 +105,7 @@ Retorna episódios filtrados pelo nome do podcast.
 1. Clone este repositório
    ```bash
    git clone https://github.com/joaoandrade07/node-ts-api-without-framework-podcast-manager.git
-   cd podcast-manager
+   cd node-ts-api-without-framework-podcast-manager
    ```
 
 2. Instale as dependências
